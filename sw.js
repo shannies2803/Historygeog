@@ -1,5 +1,5 @@
 // Time Trekkers offline support. Bump VERSION when the site changes to refresh the saved copy.
-const VERSION = 'timetrekkers-v1';
+const VERSION = 'timetrekkers-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
